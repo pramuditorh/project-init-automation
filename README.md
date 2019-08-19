@@ -11,5 +11,10 @@ Automate Project Initialization to GitHub using Python and Shell Script
 Type
 ``` nggawe [folder_name] [github_username] ```
 
+## What I Learned
+- Create own command in Linux
+- Shell scripting
+- Using API in Python
+
 ## About the Project
 This project is inspired by KalleHallden's project.
